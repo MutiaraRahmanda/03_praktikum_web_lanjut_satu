@@ -1,0 +1,1 @@
+<h3>Untuk Melihat News<br><a href='<?php echo $url ?>'><button>KLIK!</button></a></h3>
